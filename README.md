@@ -32,14 +32,6 @@ I believe in continuous learning, open-source collaboration, and using tech to s
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uditpathaki&show_icons=true&theme=tokyonight" alt="Udit's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uditpathaki&theme=tokyonight" alt="GitHub Streak" width="48%"/>
-</p>
-
----
 
 ## 📫 Let's Connect
 
