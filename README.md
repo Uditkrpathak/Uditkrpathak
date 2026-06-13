@@ -85,33 +85,8 @@ const udit = {
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uditkrpathak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditkrpathak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uditkrpathak&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-  <br/><br/>
-
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=uditkrpathak&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=uditkrpathak&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## ✅ What I Build
 
